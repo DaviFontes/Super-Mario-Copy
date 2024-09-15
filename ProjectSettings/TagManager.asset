@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Star
+  - FireFlower
+  - Mushroom
+  - Hole
+  - Shell
+  - Coin
+  - PauseMenu
+  - StatusUI
+  - Door
+  - 1Up
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Shell
+  - PowerUp
+  - Flag
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Particles
+    uniqueID: 227861337
+    locked: 0
+  - name: Background
+    uniqueID: 1711038799
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
